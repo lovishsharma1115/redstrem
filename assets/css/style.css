@@ -688,78 +688,8 @@
     opacity: 1;
   }
   
-
-
-/* ===============================
-   FIND DONOR FORM (FINAL UI)
-================================ */
-
-.form-card {
-  max-width: 750px;
-  margin: 50px auto;
-  padding: 40px;
-  background: var(--white);
-  border-radius: var(--radius-6);
-  box-shadow: var(--shadow-3);
-}
-
-.form-title {
-  text-align: center;
-  font-size: var(--fs-4);
-  color: var(--oxford-blue-1);
-  margin-bottom: 25px;
-  font-family: var(--ff-poppins);
-}
-
-.form-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 20px;
-}
-
-.form-field {
-  display: flex;
-  flex-direction: column;
-}
-
-.form-field label {
-  font-weight: var(--fw-600);
-  margin-bottom: 6px;
-  color: var(--oxford-blue-1);
-}
-
-.form-field input,
-.form-field select {
-  padding: 12px;
-  border: 1px solid var(--light-gray);
-  border-radius: var(--radius-6);
-  font-size: 1.4rem;
-  background: var(--cultured);
-  transition: var(--transition);
-}
-
-.form-field input:focus,
-.form-field select:focus {
-  outline: none;
-  border-color: var(--royal-blue-light);
-  box-shadow: 0 0 0 2px var(--flickr-blue_30);
-}
-
-/* Button upgrade */
-.donor-form .btn {
-  margin-top: 20px;
-  width: 100%;
-  padding: 15px;
-  font-size: 1.5rem;
-  border-radius: var(--radius-6);
-}
-
-/* Responsive */
-@media (max-width: 600px) {
-  .form-grid {
-    grid-template-columns: 1fr;
-  }
-}
+  
+  
   
   
   /*MEDIA QUERIES-*/
@@ -1037,5 +967,3 @@
     .cta-banner { margin-block-start: -120px; }
   
   }
-
-  
