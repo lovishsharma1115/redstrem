@@ -164,7 +164,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <ul class="contact-list">
           <li class="contact-item">
             <ion-icon name="mail-outline"></ion-icon>
-            <a href="mailto:redstream001@gmail.com" class="contact-link">redstream001@gmail.com</a>
+            <a href="mailto:lovishsharma1115@gmail.com" class="contact-link">lovishsharma1115@gmail.com</a>
           </li>
           <li class="contact-item">
             <ion-icon name="call-outline"></ion-icon>
@@ -390,7 +390,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <div class="item-icon">
               <ion-icon name="mail-outline"></ion-icon>
             </div>
-            <a href="mailto:help@example.com" class="footer-link">redstream001@gmail.com</a>
+            <a href="mailto:help@example.com" class="footer-link">lovishsharma1115@gmail.com</a>
           </li>
         </ul>
       </div>
