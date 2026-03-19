@@ -384,7 +384,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <div class="item-icon">
               <ion-icon name="call-outline"></ion-icon>
             </div>
-            <a href="tel:+917052101786" class="footer-link">+91-7558-951-351</a>
+            <a href="tel:+917052101786" class="footer-link">+91-8847-072-592</a>
           </li>
           <li class="footer-item">
             <div class="item-icon">

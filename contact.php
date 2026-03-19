@@ -147,7 +147,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
           </li>
           <li class="contact-item">
             <ion-icon name="call-outline"></ion-icon>
-            <a href="tel:+917558951351" class="contact-link">+91-7558-951-351</a>
+            <a href="tel:+917558951351" class="contact-link">+91-8847-072-592</a>
           </li>
         </ul>
         <ul class="social-list">
